@@ -8,8 +8,9 @@
 }
 
 .profile{
-  background: url('img/dp.jpg') no-repeat;
+  background: url('./img/dp.jpg') no-repeat;
   background-size: cover;
+  background-color: #444444;
   background-position: center;
   border-radius:15px;
 }
